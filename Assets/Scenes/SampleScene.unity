@@ -583,7 +583,7 @@ GameObject:
   - component: {fileID: 256265333}
   - component: {fileID: 256265336}
   m_Layer: 6
-  m_Name: Square
+  m_Name: Map
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2720,7 +2720,7 @@ GameObject:
   - component: {fileID: 1103573954}
   - component: {fileID: 1103573955}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: Hero
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
